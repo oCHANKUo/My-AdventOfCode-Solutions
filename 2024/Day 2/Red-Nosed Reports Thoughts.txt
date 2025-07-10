@@ -1,0 +1,13 @@
+Part 1
+Thankfully i understood what I was supposed to do. 
+When i searched if theres a sorting command in Python, i realised what increasing/decreasing Monotnic mean.
+
+Learning from my "mistakes" (dont really wanna call them mistakes but, more like things to improve), i realised creating a function that checks if a list is monotonic is really useful since i can reuse it.
+The most difficult part was Counting. I couldnt figure out where to actually place the Counting command. Later realised it should be places outside of the loop since im counting a whole list, not the elements within a list.
+Figured, its easier to just take a boolean value on whether the difference requirement is met or not.
+
+Part 2
+Really learned the usefulness of Functions. Ive of course known about functions for like....years now, but never actually practically used them.
+It has always been questions specifically asking me/us to create functions.
+Extending my functions to include one to check the difference requirement, then one to check if these conditions are met, then another to check if the conditions are met once a single element is removed was sooo useful. 
+But i think i realised that a little later lol. 
