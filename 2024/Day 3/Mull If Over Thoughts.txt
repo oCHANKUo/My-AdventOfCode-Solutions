@@ -1,3 +1,6 @@
 Part 1:
 I was initially going for find(), but i couldnt figure out how to search for an exact keyword like this and extract the numbers specificially.
 After asking gippity, i found out about RegEx. Immediately searched about RegEx. Got some help from gpt to find the exact pattern i should look for, and was a little confused by the loop. But figured it out.
+
+Part2:
+Only a few changes to be made. I asked chatgpt for the regex pattern. I also ran into an issue in the if statement regarding group(3). Since i did an ifelse group3 == dont. For some reason it counted more? When i put else it counted the correct amount. 
